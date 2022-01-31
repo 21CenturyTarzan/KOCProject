@@ -1,0 +1,10 @@
+var WL = {
+	"whitelist": [ 
+		"0x7c6d7a679d70b28b5cd6e143cde7932fcb03d494f2d1b294749cd15ba51aaa72",
+		"0x7c6d7a679d70b28b5cd6e143cde7932fcb03d494f2d1b294749cd15ba51aaa72"
+	],
+	"onlywhitelist": [
+		"0x7c6d7a679d70b28b5cd6e143cde7932fcb03d494f2d1b294749cd15ba51aaa72",
+		"0x7c6d7a679d70b28b5cd6e143cde7932fcb03d494f2d1b294749cd15ba51aaa72"
+	]
+}
